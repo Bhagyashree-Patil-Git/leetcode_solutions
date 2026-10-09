@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
