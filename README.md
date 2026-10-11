@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Bhagyashree-Patil-Git/leetcode_solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
